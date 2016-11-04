@@ -27,6 +27,7 @@ gem 'sdoc', require: false, group: :doc
 # Use Unicorn as the app server
 # gem 'unicorn'
 gem 'bower-rails'
+gem 'angular-rails-templates'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 #gem 'sass' '3.2.19'
