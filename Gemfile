@@ -37,6 +37,8 @@ group :test, :development do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'selenium-webdriver'
+  gem 'teaspoon-jasmine'
+  gem 'phantomjs'
 end
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
